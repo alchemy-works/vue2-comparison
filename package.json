@@ -1,0 +1,13 @@
+{
+  "name": "vue2-comparison",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.1.6"
+  }
+}
